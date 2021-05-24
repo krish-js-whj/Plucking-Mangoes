@@ -47,7 +47,7 @@ function setup() {
 }
 
 function draw() {
-  background(random(150,275));
+  background(random(200,275));
   textSize(25);
   fill(0)
   text("Press Space to get another Chance to Play and R to reset",50 ,50);
